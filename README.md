@@ -1,4 +1,4 @@
-﻿# Turismo & Meteo (España) — Analytics Engineering + Power BI
+# Turismo & Meteo (España) — Analytics Engineering + Power BI
 
 Proyecto de portfolio orientado a rol **Analytics Engineer (con BI)**: construyo un pipeline reproducible (Python + DuckDB) con capas **RAW → SILVER → GOLD**, data quality checks y un dataset final consumido por **Power BI** para analizar la relación entre clima y turismo por CCAA.
 
